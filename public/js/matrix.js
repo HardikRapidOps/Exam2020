@@ -126,11 +126,6 @@ function mapdata() {
 
   console.log(nodes.length);
   console.log(edges.length);
-  console.log(nodes);
-  console.log(edges);
-  
-  
-
 
   elements = {
     nodes,
